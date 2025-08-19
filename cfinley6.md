@@ -4,4 +4,4 @@
 - GitHub Username: cfinley6-vols
 - Major: Computer Science
 - Background: I have lived in Knoxville my entire life and am currently a senior at UTK
-- Interests: I like to play/write music, play video games, and throw baseball and football
+- Interests: I like to play/write music, play video games, and throw [baseball](https://en.wikipedia.org/wiki/Baseball) and football
