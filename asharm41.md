@@ -3,3 +3,4 @@
 ## GitHub: aadyash24
 ## Major: Computer Science
 
+## Interests: 
