@@ -1,4 +1,4 @@
-# Robby Lawrence
+# Robert Lawrence
 
 - NetID: rlawren9
 - GitHub: RobbyLawrence
