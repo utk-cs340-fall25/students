@@ -1,8 +1,12 @@
 # Andrew Cook
 **UTK Username:** acook73
+
 **UTK ID:** 000668478
+
 **Github Username:** [acook73](https://github.com/acook73)
+
 **Majors:** Computer Science and Music Composition
+
 ## Background
 I grew up in Lake Villa, Illinois, which is a town about an hour north of Chicago. During that time I took a lot of challenging AP classes, but by far my favorite two were AP Computer Science and AP Music Theory, both of which heavily influenced my choice in majors. I have enjoyed playing video games for a long time, and one of the things I like most about them is the music. This influenced my career goal, which is to become a video game composer.
 ## Interests
