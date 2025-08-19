@@ -1,0 +1,1 @@
+I am Connor Riley and I am in my first semsester of the computer science master program. I enjoy coding with a focus on bioinformatics, specificlly genome/DNA sequencing. 
