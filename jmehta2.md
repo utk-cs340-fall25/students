@@ -9,4 +9,4 @@ I'm currently working on computational tools for biomedicine. I'm specifically i
 
 ### Familiar Coding Languages: C++, Python, C, Java, R
 
-## My [CV](mehtajm.github.io/files/Jai_Mehta_CV.pdf) and [personal website](https://volweb2.utk.edu/~jmehta2)
+## My [CV](https://mehtajm.github.io/files/Jai_Mehta_CV.pdf) and [personal website](https://volweb2.utk.edu/~jmehta2)
