@@ -1,8 +1,8 @@
 ## Introduction
-Name: Camden Reed
-UT id: creed64
-github user: clumzycodes
-Major: Computer Science
+- Name: Camden Reed
+- UT id: creed64
+- github user: clumzycodes
+- Major: Computer Science
 
 ## Backgroud
 I am a Computer Science major at the University of Tennessee Knoxville and I am in Air Force ROTC.
