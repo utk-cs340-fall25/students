@@ -4,6 +4,10 @@
 * Github username: mehtajm
 * Junior at UTK studying Computer Science and Medicine
 
+## Background
+I'm originally from Mt. Juliet, TN. I grew up with an interest in medicine, and continued my interests in college. I became fascinated with computer science after taking an introductory course my first year of university.
+
+## Interests
 I'm currently working on computational tools for biomedicine. I'm specifically interested in the use of deep learning for protein design and multi-omics for disease treatments.
 
 
