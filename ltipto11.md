@@ -10,7 +10,7 @@
 * Computer Science
 
 ## Background
-* My name is Levi, I'm from Greeneville, Tennessee, and I have a background in various Python and Javascript, including reinforcement learning libraries like gymnasium. 
+* My name is Levi, I'm from Greeneville, Tennessee, and I have a background in various Python and Javascript, including reinforcement learning libraries like gymnasium
 
 ## Programming Languages
 * Python
