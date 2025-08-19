@@ -1,24 +1,24 @@
-## Levi Tipton
+# Levi Tipton
 
-# NETID
+## NETID
 ltipto11
 
-# GHUserName
+## GHUserName
 lgtipton4
 
-# Major
+## Major
 Computer Science
 
-# Programming Languages
+## Programming Languages
 * Python
 * C++
 * HTML/Javascript/CSS
 
-# Background
+## Background
 
 
 
-# Interests
+## Interests
 
 
 
