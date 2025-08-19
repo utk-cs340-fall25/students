@@ -1,15 +1,15 @@
-#About me
-*Name: Anthony Monteagudo
-*NetID: amonteag
-*GitHub Username: Alpine15
-*Major: Computer Science
-#Background
+# About me
+* Name: Anthony Monteagudo
+* NetID: amonteag
+* GitHub Username: Alpine15
+* Major: Computer Science
+# Background
 I was born in Miami, Florida but I have grown up in Knoxville almost my entire life. I had started to develop an interest in programming in 5th grade, but I had no started taking it seriously until I reached high school.
-#Interests
+# Interests
 I spend most of my free time riding mountain bikes and playing video games. I throughly enjoy doing anything outside so thats what I like to do when I'm not in the classroom.
-#Link
+# Link
 I work at [Hard Knox Pizza](https://hardknoxpizza.com/) during school which is one of my favorite pizza spots. I recommend you to check us out if you ever have the chance.
-#Skills
+# Skills
 1. C++
 1. HTML/CSS
 1. Git
