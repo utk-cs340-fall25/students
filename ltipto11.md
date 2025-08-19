@@ -1,7 +1,7 @@
 # Levi Tipton
 
 ## NetID
-ltipto11
+* ltipto11
 
 ## Github username
 * lgtipton4
@@ -20,4 +20,4 @@ ltipto11
 ## Interests
 * Reading/Writing
 * AI/reinforcement learning 
-* Video games, specifically [Dota2](https://www.dota2.com/home), I'm top 150 in the Americas. It's like league of legends but better, if you have an interest in playing contact me and I'll teach you
+* Video games, specifically [Dota2](https://www.dota2.com/home), I'm in the top 150 players in the Americas. It's like league of legends but better, if you have an interest in playing contact me and I'll teach you
