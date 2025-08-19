@@ -12,7 +12,7 @@ I began coding in middle school at a camp and fell in love, I knew it was what I
 ## Intrests/Involvement
 
 I Love video games, speding time with friends, watching TV, etc.
-Member of Phi Kappa Psi Fraternity as Head of Alumni Relations & previously Secretary 
+I am currently a member of Phi Kappa Psi Fraternity as Head of Alumni Relations & previously Secretary 
 
 ## Skills
 * C/C++/C#
