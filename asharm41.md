@@ -9,7 +9,7 @@
 I’m a Computer Science student at the University of Tennessee, Knoxville. Currently a Software Programmer at the Tennessee Reading Research Center; previously a Software Engineering Intern at the Center for Global Engagement and a CS Tutor. I enjoy building full-stack apps and applied ML!
 
 ## Interests
-Reading, watching films, traveling, and art. I track films on **[Letterboxd](https://letterboxd.com/)**.
+Reading, watching films, traveling, and art. I like to track films I like on **[Letterboxd](https://letterboxd.com/)**.
 
 ## Skills
 - **Languages:** Python, Java, JavaScript/TypeScript, C/C++, C#, Swift, PHP, HTML/CSS
