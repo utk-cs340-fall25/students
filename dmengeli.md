@@ -1,7 +1,7 @@
 # Davyn Mengeling
-*netid: dmengeli
-*github id: DMengeli04
-*major: Computer Science
+-netid: dmengeli
+-github id: DMengeli04
+-major: Computer Science
 
 ## Summary
 
@@ -9,9 +9,9 @@ Hello, my name is Davyn Mengeling, and I am a Computer Science major here at UT.
 
 ## Skills
 
-*C++
-*Java
-*MATLAB
-*Security+ certified
+-C++
+-Java
+-MATLAB
+-Security+ certified
 
 
