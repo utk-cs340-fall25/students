@@ -1,5 +1,5 @@
-# NetID MD
-## Basics Details
+# Markdown Assignment
+## Basic Details
 * Name: Ethan Molder.
 * Preffered Name: William (middle name).
 * netid: emolder.
