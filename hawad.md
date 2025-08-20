@@ -1,8 +1,8 @@
 # About Me
 
-**Name:** Hamza awad
-**UT NetID:** hawad@vols.utk.edu
-**GitHub:**
+**Name:** Hamza Awad  
+**UT NetID:** hawad@vols.utk.edu  
+**GitHub:** hamzaawad101
 **Major:** Computer Science
 
 ## Background
@@ -26,4 +26,4 @@ I am familiar with the following computer languages, tools, and frameworks:
 
 ## LINK
 
-- [soccer]: https://www.espn.com/soccer/scoreboard
+[soccer]: https://www.espn.com/soccer/scoreboard
