@@ -13,7 +13,7 @@ I am a junior CS & Math student from Nashville, Tennessee. I've been interested 
 
 ## Interests
 
-My primary interest is **software engineering**, but I also am interested in web design and computer architecture. My non-computer related interests include gaming, music, and exploring nature. Here's a link to my favorite band's website! [Dinosaur Jr.](https://utk.instructure.com/courses/233849/assignments/2343245)
+My primary interest is **software engineering**, but I also am interested in web design and computer architecture. My non-computer related interests include gaming, music, and exploring nature. Here's a link to my favorite band's website! [Dinosaur Jr.](https://www.dinosaurjr.com/)
 
 
 
