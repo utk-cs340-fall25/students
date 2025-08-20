@@ -1,9 +1,9 @@
 # Siddh Swapnilkumar Patel
 
-	**Name I go by:** Just call me Sid
-	**UTK NetID:** spate198
-	**Github Username:** spatel787
-	***Major:** Computer Science
+*Name I go by: Just call me Sid
+*UTK NetID: spate198
+*Github Username: spatel787
+*Major: Computer Science
 
 ## Background
 
@@ -18,9 +18,9 @@ interests, I did a free  prompt engineering online campaign this summer and I re
 
 ## Skills
 
-C
-C++
-HTML/CSS
+*C
+*C++
+*HTML/CSS
 
 
 
