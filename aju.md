@@ -1,5 +1,6 @@
 # About Me
 
+- Name: Angelina Ju
 - NetID: aju
 - Github: angelinaju
 - Major: Computer Science
