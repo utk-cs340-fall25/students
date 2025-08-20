@@ -1,9 +1,9 @@
 # Siddh Swapnilkumar Patel
 
-*Name I go by: Just call me Sid
-*UTK NetID: spate198
-*Github Username: spatel787
-*Major: Computer Science
+- **Name I go by:** Just call me Sid
+- **UTK NetID:** spate198
+- **Github Username:** spatel787
+- **Major:** Computer Science
 
 ## Background
 
@@ -14,13 +14,13 @@ fiction novels, my favourite is Thinking Fast and Slow. I hope to get along with
 
 I am interested in Cybersecurity, especially web exploit and patch segment of it. Now for my other 
 interests, I did a free  prompt engineering online campaign this summer and I really liked it. 
-[Learn more about Prompt Engineering]{https://en.wikipedia.org/wiki/Prompt_engineering)
 
 ## Skills
 
-*C
-*C++
-*HTML/CSS
+- C
+- C++
+- HTML/CSS
 
+[Learn about Prompt Engineering]{https://en.wikipedia.org/wiki/Prompt_engineering)
 
 
