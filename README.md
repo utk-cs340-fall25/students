@@ -11,9 +11,9 @@ in the Enterprise Architecture and Cloud COE teams. I am looking forward to an e
 ## Interests
 
 One of my main interests is following Pro Baseball closely and following the advanced analytics and how they are created. Seeing
-how the inclination of these numbers and how they correlate to success is facinating to me. One website that I follow closely is
-called Baseball Savant which shows real time numbers while the games are currently going on live. Here is a link to that previously
-mentioned website: [Baseball Savant](https://baseballsavant.mlb.com)
+how the implementation of these statistics and how they correlate to success is facinating to me. One website that I follow closely
+is called Baseball Savant which shows real time numbers while the games are currently going on live. Here is a link to that
+previously mentioned website: [Baseball Savant](https://baseballsavant.mlb.com)
 
 ## Previously Used Tools
 
