@@ -24,6 +24,6 @@ I am familiar with the following computer languages, tools, and frameworks:
 - Godot
 - Vscode
 
-## Fun Fact or Additional Info
+## LINK
 
-[soccer]: https://www.espn.com/soccer/scoreboard
+- [soccer]: https://www.espn.com/soccer/scoreboard
