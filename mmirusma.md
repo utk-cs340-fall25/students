@@ -1,1 +1,1 @@
-I am Madina Mirusmanova and I am a senior studying Computer Science, and minoring in Cybersecurity. By taking this course, I hope to learn all I can about ~data analysis and data management~, and gain a solid practical understanding in them also.
+I am Madina Mirusmanova and I am a senior studying Computer Science, and minoring in Cybersecurity. By taking this course, I hope to learn all I can about data analysis and data management, and gain a solid practical understanding in them also.
