@@ -1,7 +1,7 @@
 ## Annie Fink
-**preferred name:** Annie
-**netid:** afink12
-**github username:** annieefinkk
+**preferred name:** Annie  
+**netid:** afink12  
+**github username:** annieefinkk  
 **major:** computer science
 
 # Background
@@ -14,7 +14,7 @@ I am on the **cheerleading** team at the university, so cheer is definitely my m
 
 # Familiar Domains
 I am familair in:
-i. C++
-ii. Assembly
-iii. Godot
-iv. little bit of Java and Python in highschool
+1. C++
+2. Assembly
+3. Godot
+4. little bit of Java and Python in highschool
