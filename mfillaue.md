@@ -1,11 +1,11 @@
-#Mary Fillauer
-## Background
+# Mary Fillauer
+##  Background
 
 
-## Interests
+##  Interests
 
 
-## Comp Experience
+##  Comp Experience
 
 
-## Link to Whatever
+##  Link to Whatever
