@@ -18,13 +18,13 @@ I think the 2 main interests I want to talk about is Raving and Cinematography
 
 Here is some links to some videos ive worked on for my youth group!
 
-https://youtu.be/h6pXqXghGdo?si=1jEdvOQQWmkwcIUv 
+[Training Camp in Dallas Texas] https://youtu.be/h6pXqXghGdo?si=1jEdvOQQWmkwcIUv 
 
-https://youtu.be/0EKWuelkHh0?si=hjskZhCAh-BgIK3G
+[Movie Trailer] https://youtu.be/0EKWuelkHh0?si=hjskZhCAh-BgIK3G
 
-https://youtu.be/X5UmxbRAvgg?si=TGrRUU958odgiTlj
+[Summer Camp Knox 2023] https://youtu.be/X5UmxbRAvgg?si=TGrRUU958odgiTlj
 
-https://www.youtube.com/@Tr.VinhActor/videos
+[Youtube Channel Vinh & Minh] https://www.youtube.com/@Tr.VinhActor/videos
 
 ## Skills
 * C++
