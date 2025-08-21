@@ -1,9 +1,9 @@
 # Assignment 1
 
-Name: Ruhi Kabarwal
-netid:  rkabarwa
-username: RuhiKabarwal 
-major: Computer Science
+-Name: Ruhi Kabarwal
+-netid:  rkabarwa
+-username: RuhiKabarwal 
+-major: Computer Science
 
 #### Computer Languages, tools, & Frameworks 
 
