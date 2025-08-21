@@ -15,5 +15,5 @@ I'm from Chattanooga, TN and lived there from kindergarten through highschool. I
 ##  Comp Experience
 I really don't have any experience outside of the courses I've taken so far at UT. I know C++ pretty well and have dabbled with Javascript and Python. Hopefully this semester I will begin to branch out and beef up my resume a bit.
 
-##  Link to Whatever
-Check out this revolutionary use of [AI](https://www.youtube.com/watch?v=77xxXfKUBfc).
+##  Brighten Your Day
+What better way to use AI than [this](https://www.youtube.com/watch?v=77xxXfKUBfc)?
