@@ -1,8 +1,11 @@
 # About me
 
 Name: Manihams Suraparaju
+
 UT netid: msurapar
+
 Github id: manihams
+
 Major: Computer Science
 
 ## Background
