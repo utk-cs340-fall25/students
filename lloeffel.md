@@ -4,6 +4,7 @@
 **Github Username:** wafflesLL
 **Major:** Computer Science
 
+
 ## Introduction
 Hi, I am a Junior and I am interested in Software Engineering and Cybersecurity. I am minoring in Machine Learning and Cybersecurity and I have worked as a Software Engineer at an educational startup called LX Aer
 
