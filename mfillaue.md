@@ -1,4 +1,7 @@
 # Mary Fillauer
+netid: mfillaue
+github user: mfillaue
+major: comp sci
 ##  Background
 I'm from Chattanooga, TN and lived there from kindergarten through highschool. I went to Notre Dame High School and played volleyball and basketball. Funny enough, the reason I got into comp sci was because my volleyball coach taught the class in high school, so I decided to take it for an easy A. Now here I am four years later still doing it...
 
