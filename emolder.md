@@ -1,7 +1,7 @@
 # Markdown Assignment
 ## Basic Details
 * Name: Ethan Molder.
-* Preffered Name: William (middle name).
+* Preferred Name: William (middle name).
 * netid: emolder.
 * githubID: wmolder.
 * Major: Computer Science.
