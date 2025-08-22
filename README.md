@@ -1,3 +1,3 @@
-## Due Aug 21 before midnight: Github Pull Request 
+##  Github Pull Request: Due Aug 21 before midnight
 
 See instructions on Canvas, Assignment 1
